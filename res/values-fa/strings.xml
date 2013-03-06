@@ -6,7 +6,7 @@
     
     <!-- Color Picker -->
     <string name="dialog_color_picker">انتخاب‌گر رنگ</string>
-    <string name="press_color_to_apply">فشاردهید تا اعمال‌شود</string>    
+    <string name="press_color_to_apply">برای اعمال فشار دهید</string>    
     
     <!-- Preferences -->
     <string name="pref_category">رده</string>
